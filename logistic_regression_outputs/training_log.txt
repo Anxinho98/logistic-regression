@@ -1,0 +1,25 @@
+LOGISTIC REGRESSION WITH GRADIENT DESCENT
+============================================================
+Date and time: 2025-07-07 19:01:46
+============================================================
+
+1. VISUALIZING SIGMOID FUNCTION
+- Plot saved: sigmoid_function.png
+- Data saved: sigmoid_data.json
+
+2. VISUALIZING DECISION BOUNDARIES
+- Logical AND: decision_boundary_logical_and.png
+- Logical OR: decision_boundary_logical_or.png
+- Linearly Separable: decision_boundary_linearly_separable.png
+- Concentric Circles: decision_boundary_concentric_circles.png
+
+3. COST EVOLUTION
+- Logical AND: cost_evolution_logical_and.png
+- Logical OR: cost_evolution_logical_or.png
+- Linearly Separable: cost_evolution_linearly_separable.png
+- Concentric Circles: cost_evolution_concentric_circles.png
+
+4. GENERATED FILES
+==============================
+Total files generated: 22
+All files saved in: logistic_regression_outputs
